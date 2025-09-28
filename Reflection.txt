@@ -1,0 +1,6 @@
+At first, I really thought the activity would be very easy, but it turned out to be harder than I expected.
+It took me longer to finish, but along the way I learned how to build a Task Manager app using React components.
+I also practiced working with state, props, and handling user interactions. 
+But I also struggled with saving the tasks so they would remain even after refreshing the browser.
+When I tried to save them, my layout would break and the add button would stop working. 
+As a beginner, I easily get nervous and panic. Hahaha!
